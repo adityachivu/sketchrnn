@@ -1,2 +1,2 @@
 # sketchrnn
-Sketch RNN implementation in PyTorch
+Sketch RNN implementation in PyTorch / Pyro
